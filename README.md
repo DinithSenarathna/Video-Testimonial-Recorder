@@ -1,6 +1,6 @@
 # Video Testimonial Recorder
 
-![Project Screenshot]([screenshot.png](https://github.com/DinithSenarathna/Video-Testimonial-Recorder/blob/main/Screenshot%202025-05-31%20223443.png)) <!-- Add a screenshot if available -->
+![Project Screenshot](https://github.com/DinithSenarathna/Video-Testimonial-Recorder/blob/1958485ce29f93362dc1968687aebfe36ed7ca65/Screenshot%202025-05-31%20223443.png) <!-- Add a screenshot if available -->
 
 A web-based application that allows users to record video testimonials directly from their browser with options to save the recordings to different locations.
 
